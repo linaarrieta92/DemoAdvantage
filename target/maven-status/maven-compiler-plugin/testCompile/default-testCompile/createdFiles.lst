@@ -1,0 +1,6 @@
+com\tcs\capacitacion\reto\runners\AdvantageRegister.class
+com\tcs\capacitacion\reto\stepdefinitions\AdvantageContactStepDefinitions.class
+com\tcs\capacitacion\reto\stepdefinitions\AdvantageRegisterStepDefinitions.class
+com\tcs\capacitacion\reto\runners\AdvantageContact.class
+com\tcs\capacitacion\reto\runners\AdvantageShopping.class
+com\tcs\capacitacion\reto\stepdefinitions\AdvantageShoppingStepDefinitions.class
